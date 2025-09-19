@@ -122,7 +122,7 @@ Contributions are welcome!
 3. Submit a pull request  
 
 ## 👨‍💻 Author  
-**Talasū Saimanikanta**  
+**Talasu Saimanikanta**  
 
 - [LinkedIn](https://www.linkedin.com/in/talasu-saimanikanta-09bb2a260)  
 - [GitHub]((https://github.com/SMK321-myprojects))  
